@@ -1,10 +1,10 @@
 # WatchOS2_Complication
 
-A template of Modular Large complication written in swift 2.0 for Apple WatchOS 2 beta  using ClockKit framework
+A example of complication written in swift 2.0 for Apple WatchOS 2 beta using ClockKit framework
 Complication is something what newly released in Apple WatchOS 2
 
 
-In my example, I choose to use the templete called CLKComplicationTemplateModularLargeStandardBody 
+In my example, I choose to use a templete called CLKComplicationTemplateModularLargeStandardBody 
 
 you can view other 21 templetes in 
 https://developer.apple.com/library/prerelease/watchos/documentation/ClockKit/Reference/ClockKit_framework/index.html#//apple_ref/doc/uid/TP40016082
