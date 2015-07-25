@@ -11,8 +11,9 @@ https://developer.apple.com/library/prerelease/watchos/documentation/ClockKit/Re
 
 The others' useages will just like CLKComplicationTemplateModularLargeStandardBody used my example
 
-In my example I will show you how to bulid a complication genre TV shows in a short time
-It can do "TimeTravel" with your digital crown
+In my example I will show you how to bulid a complication about TV shows in a short time
+
+It can do "TimeTravel" with you by using digital crown
 
 To run the example
 you are required at least Xcode 7.0 beta and OS X 10.10
